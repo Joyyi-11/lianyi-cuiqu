@@ -1,0 +1,4 @@
+interface:
+  display_name: "连漪拆解吸收"
+  short_description: "按语义块拆解优秀作品，提炼结构并融入自己的方法框架"
+  default_prompt: "Use $lianyi-absorb to deconstruct this work by semantic blocks and help me decide what to adapt into my own framework."
