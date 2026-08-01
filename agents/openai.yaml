@@ -1,4 +1,4 @@
 interface:
-  display_name: "连漪拆解吸收"
-  short_description: "拆解优秀内容与实践反馈，提炼并融入自己的方法框架"
-  default_prompt: "Use $lianyi-absorb to analyze this source or practice feedback, identify what solves my problem, and integrate it into my framework."
+  display_name: "连漪萃取"
+  short_description: "从优秀经验与既往实践中萃取精华，吸收内化进自己的方法框架"
+  default_prompt: "Use $lianyi-cuiqu to analyze this source or practice feedback, extract what solves my problem, and integrate it into my framework."
